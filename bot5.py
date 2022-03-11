@@ -2,7 +2,7 @@ from telegram.ext import Updater, CommandHandler, InlineQueryHandler, MessageHan
 import requests
 import json
 
-bot5_token = "BOT_TOKEN"   # Enter your Bot's Token here. You get this Token when registering a new Bot on Telegram.
+bot5_token = "BOT_TOKEN"   # Substitute "BOT_TOKEN" phrase with your Bot's Token. You get your Token when registering a new Bot on Telegram.
 
 def get_url():
     a5 = requests.get("http://quotes.stormconsultancy.co.uk/random.json").json()
