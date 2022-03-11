@@ -1,6 +1,6 @@
 # Bot5-Telegram-CS-quotes-via-API
 
-Telegram Bot sending quotes about Computer Science via <a href="http://quotes.stormconsultancy.co.uk/api"> this API when <code>/random</code> command is entered</a> <br>
+Telegram Bot sending quotes about Computer Science via <a href="http://quotes.stormconsultancy.co.uk/api"> this API</a> when <code>/random</code> command is entered <br>
 
 <h2>Steps</h2>
 <ul>
